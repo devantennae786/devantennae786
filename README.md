@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Senior Frontend Web Developer**, ver the last eleven years, I have implemented different frontend architectures from scratch and also designs/redesigns for and onto many applications and websites for numerous various businesses using a lot of frameworks and technologies:
+I am **Senior Frontend Web Developer**, over the last eleven years, I have implemented different frontend architectures from scratch and also designs/redesigns for and onto many applications and websites for numerous various businesses using a lot of frameworks and technologies:
 
 - Vue.js / VueX
 - React.js / Next.js / Redux
