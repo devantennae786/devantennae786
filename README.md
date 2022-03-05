@@ -16,12 +16,6 @@ I am **Senior Frontend Web Developer**, over the last eleven years, I have imple
 - etc
 
 
-### ⚡ Awards
-List of Awards
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devantennae786&theme=onedark)](https://github.com/devantennae786/github-profile-trophy)
-
-
 ### ⚡ GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devantennae786&theme=dark)](https://git.io/streak-stats)
 
@@ -30,6 +24,12 @@ List of Awards
 Detailed view of over all contribution
 
 ![devantennae786's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+### ⚡ Awards
+List of Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devantennae786&theme=onedark)](https://github.com/devantennae786/github-profile-trophy)
 
 
 ## ⚡ Contribution Graph
