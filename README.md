@@ -22,12 +22,6 @@ List of Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=devantennae786&theme=onedark)](https://github.com/devantennae786/github-profile-trophy)
 
 
-## ⚡ Contribution Graph
- Graphical details of past code contribution
- 
-[![devantennae786's github activity graph](https://activity-graph.herokuapp.com/graph?username=devantennae786&theme=dracula)](https://github.com/devantennae786/github-readme-activity-graph)
-
-
 ### ⚡ GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devantennae786&theme=dark)](https://git.io/streak-stats)
 
@@ -36,6 +30,13 @@ List of Awards
 Detailed view of over all contribution
 
 ![devantennae786's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+## ⚡ Contribution Graph
+ Graphical details of past code contribution
+ 
+[![devantennae786's github activity graph](https://activity-graph.herokuapp.com/graph?username=devantennae786&theme=dracula)](https://github.com/devantennae786/github-readme-activity-graph)
+
 
 Let me know how I can help you with.
 Regards,
