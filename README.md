@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**devantennae786/devantennae786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Senior Frontend Web Developer**, ver the last eleven years, I have implemented different frontend architectures from scratch and also designs/redesigns for and onto many applications and websites for numerous various businesses using a lot of frameworks and technologies:
 
-Here are some ideas to get you started:
+- Vue.js / VueX
+- React.js / Next.js / Redux
+- Angular.js
+- Typescript
+- Bootstrap
+- Vuetify
+- Material-ui
+- HTML5/CSS3
+- LESS/SASS/SCSS
+- Figma
+- Sketch
+- etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚡ Awards
+List of Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devantennae786&theme=onedark)](https://github.com/devantennae786/github-profile-trophy)
+
+
+## ⚡ Contribution Graph
+ Graphical details of past code contribution
+ 
+[![devantennae786's github activity graph](https://activity-graph.herokuapp.com/graph?username=devantennae786&theme=dracula)](https://github.com/devantennae786/github-readme-activity-graph)
+
+
+### ⚡ GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devantennae786&theme=dark)](https://git.io/streak-stats)
+
+
+### ⚡ Stats History
+Detailed view of over all contribution
+
+![devantennae786's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+Let me know how I can help you with.
+Regards,
